@@ -1,0 +1,21 @@
+.filter-select {
+    width: 800px;
+    padding: 8px;
+    margin: 10px auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: linear-gradient(to bottom, #87ceeb, #00bfff);
+    color: white;
+    display: block; 
+  }
+  
+  .filter-select option {
+    background: #fff;
+    color: #000;
+  }
+  
+  .filter-select:hover,
+  .filter-select:focus {
+    border-color: #0056b3;
+  }
+  
